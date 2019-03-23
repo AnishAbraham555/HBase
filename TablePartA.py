@@ -8,7 +8,7 @@ cf = {
     'custom':dict()
 }
 
-conn.create_table('powers', cf)
-print('Created table powers')
+conn.create_table('powers1', cf)
+print('Created table powers1')
 
 conn.close()
